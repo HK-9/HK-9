@@ -1,8 +1,5 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on Bototype Kinfra Techno Park Calicut [Gamex - Online games Store](gamexonline.store)
-
-- 👯 I’m looking to collaborate on **React Js Online car rental application**
 
 - 📫 How to reach me **pvharikrishna8120@gmail.com**
 
