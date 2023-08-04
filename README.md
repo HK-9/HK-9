@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> MERN Stack Developer/h3>
 
 
 - 📫 How to reach me **pvharikrishna8120@gmail.com**
