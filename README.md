@@ -1,4 +1,4 @@
-<h3 align="center"> MERN Stack Developer</h3>
+<h3 align="center"> Full Stack Developer</h3>
 
 
 - 📫 How to reach me **pvharikrishna8120@gmail.com**
